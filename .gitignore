@@ -1,0 +1,24 @@
+# Claude Code configuration directory
+
+# Backups
+backups/
+
+# Cache
+cache/
+
+# Debug logs
+debug/
+
+# Session data
+session-env/
+
+# Shell snapshots
+shell-snapshots/
+
+# History
+history.jsonl
+
+# Downloads
+downloads/
+
+settings.json
